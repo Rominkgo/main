@@ -11,5 +11,11 @@ import CoreData
 
 @objc(ThingToDo)
 public class ThingToDo: NSManagedObject {
+    
+    
+//    convenience init(title: String, done: Bool) {
+//        self.title = title
+//        self.done = done
+//    }
 
 }

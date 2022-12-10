@@ -18,6 +18,7 @@ extension ThingToDo {
 
     @NSManaged public var title: String?
     @NSManaged public var done: Bool
+    
 
 }
 
